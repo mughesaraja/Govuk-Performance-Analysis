@@ -3,7 +3,7 @@
 A end-to-end performance analysis project modelled on the tools,
 methods and KPI frameworks used by the Government Digital Service (GDS).
 
-**[View the live Looker Studio dashboard →]https://datastudio.google.com/reporting/0dd8aaf9-af21-4383-93bb-1673b3607868**
+**View the live Looker Studio dashboard →https://datastudio.google.com/reporting/0dd8aaf9-af21-4383-93bb-1673b3607868**
 
 ---
 
