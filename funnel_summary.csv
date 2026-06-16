@@ -1,0 +1,8 @@
+page_path,page_label,sessions,pct_reached
+/apply-renew-passport,Apply Renew Passport,2000,100.0
+/apply-renew-passport/eligibility,Eligibility,1563,78.1
+/apply-renew-passport/photo,Photo,1220,61.0
+/apply-renew-passport/personal-details,Personal Details,864,43.2
+/apply-renew-passport/check-answers,Check Answers,589,29.4
+/apply-renew-passport/payment,Payment,335,16.8
+/apply-renew-passport/confirmation,Confirmation,149,7.4
