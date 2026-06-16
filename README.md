@@ -104,27 +104,6 @@ Before publishing any results, seven automated checks were run:
 
 ---
 
-## Project structure
-govuk-performance-analysis/
-
-│
-
-├── govuk_performance_analysis.ipynb   # Full analysis notebook
-
-├── data/
-
-│   ├── ga4_events.csv                 # Simulated raw GA4 event data
-
-│   ├── funnel_summary.csv             # Funnel drop-off by page
-
-│   ├── completion_by_device.csv       # Completion rate by device
-
-│   ├── completion_by_source.csv       # Completion rate by source
-
-│   └── weekly_sessions.csv            # Session volume over time
-
-└── README.md
----
 
 ## About this project
 Built as a portfolio project to demonstrate performance analysis skillsaligned with the GDS Performance Analyst role and the Government Digital and Data Capability Framework. All data is synthetic and generated using Python — no real user data was used at any point.
